@@ -1,8 +1,12 @@
-Hello world
+# First file for Version Control
+
+## Text selection
 
  *Kursive.*
 
  **Полужирный (bold).**
+
+ ## Lists
  
 * Element 1
 * Element 2
@@ -12,5 +16,5 @@ Hello world
 2. Second element of numbered list;
 3. Third element of numbered list; 
 
- getting started with version control 
+ 
 
