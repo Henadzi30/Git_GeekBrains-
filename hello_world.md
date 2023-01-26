@@ -8,6 +8,9 @@ Hello world
 * Element 2
 * Element 3
 
+1. First element of numbered list; 
+2. Second element of numbered list;
+3. Third element of numbered list; 
 
  getting started with version control 
 
