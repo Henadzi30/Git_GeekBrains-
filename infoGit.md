@@ -60,3 +60,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ![](https://tn.fishki.net/26/upload/post/201502/23/1439694/284a30fc7f6668e16f267782b8c6e6fb.jpg)
 
 
+## Основные команды Git 2-го семинара
+
+**git branch <branch_name>** - создать новую ветку
+
