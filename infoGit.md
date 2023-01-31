@@ -66,6 +66,6 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 >**git log --graph** - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
 
->git branch -d **<branch_name>** - создать новую ветку с именем branch_name. А еще в этом месте создается конфликт.
+>git branch -d **<branch_name>** - создать новую ветку с Вот сдесь конфликтименем branch_name. А еще в этом месте создается конфликт.
 
 >**git merge --abort** - отменить слияние, которое прошло с конфликтом
