@@ -62,5 +62,8 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 ## Основные команды Git 2-го семинара
 
-**git branch <branch_name>** - создать новую ветку
+> git branch **<branch_name>** - создать новую ветку
 
+>**git branch -d <branch_name>** - создать новую ветку с именем branch_name
+
+>**git merge --abort** - отменить слияние, которое прошло с конфликтом
