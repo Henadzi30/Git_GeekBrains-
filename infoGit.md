@@ -64,3 +64,6 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 **git branch <branch_name>** - создать новую ветку
 
+**git checkout -b <название ветки>** - создание ветки и переход к ней
+
+**git merge --abort** - отменить слияние, которое прошло с конфликтом
