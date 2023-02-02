@@ -69,3 +69,9 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 >git branch -d **<branch_name>** - удалить ветку
 
 >**git merge --abort** - отменить слияние, которое прошло с конфликтом
+
+>**git commit -am "message"** - добавление файлов в отслеживание и создание коммита
+
+>**git log --oneline** - вывод сокращенного журнала коммитов
+
+>**git branch** - просмотр список веток в репозитории
