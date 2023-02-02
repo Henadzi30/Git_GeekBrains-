@@ -69,3 +69,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 >git branch -d **<branch_name>** - удалить ветку
 
 >**git merge --abort** - отменить слияние, которое прошло с конфликтом
+
+>**git checkout <название веки>** - переход к другой ветке
