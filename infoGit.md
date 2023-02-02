@@ -66,6 +66,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 >**git log --graph** - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
 
->git branch -d **<branch_name>** - удалить ветку
+>**git checkout -b <название ветки>** - создание ветки и переход к ней
+>**git branch -d <branch_name>** - удалить ветку
 
 >**git merge --abort** - отменить слияние, которое прошло с конфликтом
