@@ -79,3 +79,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 >**git branch** - просмотр список веток в репозитории
 
 >**git checkout <название веки>** - переход к другой ветке
+
+## Основные комманды 3-го семинара
+
+
