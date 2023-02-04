@@ -82,4 +82,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 ## Основные комманды 3-го семинара
 
-
+>**git clone <url-адресс репозитория>** - клонирование внешнего репозитория на локальный ПК
+ 
